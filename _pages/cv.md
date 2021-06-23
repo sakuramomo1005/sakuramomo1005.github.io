@@ -9,6 +9,9 @@ redirect_from:
 
 {% include base_path %}
 
+[Download PDF](https://github.com/sakuramomo1005/sakuramomo1005.github.io/blob/master/files/CV-Lanqiu%20Yao.pdf) Updated 2021-01
+
+
 Education
 ======
 * Ph.D in Biostatistics, New York University, 2018-2022
@@ -18,35 +21,23 @@ Education
 
 Experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Data Science Intern at Duke Clinical Research Institutioin (DCRI), Durham, NC, 2016-2018
+  * Prediction Model for Necrotizing Enterocolitis
+  * Conducted data exploration for the raw data collected from Duke hospitals.
+  * Applied the regular expressions to extract information from big data
+  * Built logistic regression models to predict the disease-Necrotizing Enterocolitis
 
-DUKE CLINICAL RESEARCH INSTITUTION, Durham, NC, USA 2016-2018
-Prediction Model for Necrotizing Enterocolitis
-Data Science Intern
-• Conducted data exploration for the raw data collected from Duke hospitals.
-• Applied the regular expressions to extract information from big data
-• Built logistic regression models to predict the disease-Necrotizing Enterocolitis
+* Data Science Intern, Duke University Department of Sociology, Durham, NC, 2016-2017
+  * Conducted a Meta-analysis to present the correlation between church strictness and church growth
+  * Conducted a system review for relevant papers and extracted data
+  * Conducted meta-analysis with consideration of a hierarchical data structure and build a model with the correlations.
 
-DUKE UNIVERSITY DEPARTMENT OF SOCIOLOGY, Durham, NC, USA 2016-2017
-Conducted a Meta-analysis to present the correlation between church strictness and church growth
-Data Science Intern
-• Conducted a system review for relevant papers and extracted data
-• Conducted meta-analysis with consideration of a hierarchical data structure and build a model with the correlations.
-• Preparing a paper for the project.
-
-BEIJING JISHUITAN HOSPITAL, Beijing, China 2014-2016
-Intern (similar as Resident)
-• Rotated in 15 clinical departments including Cardiology, Surgery, Gynecology, Obstetrics, Pediatrics
-• Assisted doctors’ work including conducting physical examination for patients and writing medical records
-• Aided in surgeries including Appendectomy and TIPS( Transjugular intrahepatic portosystemic shunt)
+* Intern (similar as Resident),  Beijing Jishuitan Hosptial (北京积水潭医院), Beijing, China 2014-2016
+  * Received Training for clinicians and surgeons
+  * Rotated in 15 clinical departments including Cardiology, Surgery, Gynecology, Obstetrics, Pediatrics
+  * Assisted doctors’ work including conducting physical examination for patients and writing medical records
+  * Aided in surgeries including Appendectomy and TIPS( Transjugular intrahepatic portosystemic shunt)
 
 
 Honors and Awards
