@@ -35,6 +35,50 @@ Honors and Awards
 * Beijing excellent student award, 2013
 * Peking University excellent learning award, 2012, 2014
 
+
+Publications
+======
+* Turner EL, **Yao L**, Li F, Prague M. Properties and pitfalls of weighting as an alternative to multilevel multiple imputation in
+cluster randomized trials with missing binary outcomes under covariate-dependent missingness. Statistical methods in medical research.
+2019 Jul 11:0962280219859915
+
+[paper link!](https://github.com/sakuramomo1005/sakuramomo1005.github.io/blob/master/files/paper1.pdf)
+
+* Wang, B., **Yao, L**., Hu, J. and Li, H., 2020. A New Algorithm for Convex Biclustering and Its Extension to the Compositional
+Data. arXiv preprint arXiv:2011.12182.
+
+[paper link!](https://github.com/sakuramomo1005/sakuramomo1005.github.io/blob/master/files/paper3.pdf)
+
+
+* Zhang Z, Meng L, Ni C, **Yao L**, Zhang F, Jin Y, Mu X, Zhu S, Lu X, Liu S, Yu C. Engineering Escherichia coli to bind to
+cyanobacteria. Journal of bioscience and bioengineering. 2017 Mar 1;123(3):347-52.
+
+[paper link!](https://github.com/sakuramomo1005/sakuramomo1005.github.io/blob/master/files/paper2.pdf)
+
+
+Talks and Posters
+======
+
+* [link!](https://github.com/sakuramomo1005/sakuramomo1005.github.io/blob/master/files/ENAR_2021.pdf)
+* 
+* A Single Index Model for Longitudinal Outcomes to Optimize Individual Treatment Decision Rules
+Joint Statistical Meetings, American Statistical Association, 2020 [link!]()
+
+* Contributed Posters: Discovering Linear Biosignatures for Treatment Response: A Convexity-Based Clustering Approach
+Tom Ten Have Symposium on Statistics in Mental Health, Yale University, 2019 [link!]()
+
+* Discovering Linear Biosignatures for Treatment Response Based on Maximizing Kullback-Leibler Divergence in Linear mixedeffect
+Models, Precision Health Interest Group Meetings, NYU, Grossman School of Medicine, 2019
+
+
+
+Teaching
+======
+  <ul>{% for post in site.teaching %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
+
+
 Scientific Memberships
 ======
 * Eastern North American Region International Biometric Society, 2021-Present
@@ -47,36 +91,6 @@ Skills
 * Microsoft Office (Excel, Word, PowerPoint), Adobe Photoshop, Adobe After Effects
 * Molecular cloning, Western blotting, PCR, ELISA, Protein Purification, Protein Engineering, Fluorescence Microscopy, Flow
 Cytometry
-
-Publications
-======
-* Turner EL, **Yao L**, Li F, Prague M. Properties and pitfalls of weighting as an alternative to multilevel multiple imputation in
-cluster randomized trials with missing binary outcomes under covariate-dependent missingness. Statistical methods in medical research.
-2019 Jul 11:0962280219859915
-* Wang, B., **Yao, L**., Hu, J. and Li, H., 2020. A New Algorithm for Convex Biclustering and Its Extension to the Compositional
-Data. arXiv preprint arXiv:2011.12182.
-* Zhang Z, Meng L, Ni C, **Yao L**, Zhang F, Jin Y, Mu X, Zhu S, Lu X, Liu S, Yu C. Engineering Escherichia coli to bind to
-cyanobacteria. Journal of bioscience and bioengineering. 2017 Mar 1;123(3):347-52.
-
-{%   <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>%}
-  
-Talks and Posters
-======
-* A Single Index Model for Longitudinal Outcomes to Optimize Individual Treatment Decision Rules
-Joint Statistical Meetings, American Statistical Association, 2020
-* Discovering Linear Biosignatures for Treatment Response Based on Maximizing Kullback-Leibler Divergence in Linear mixedeffect
-Models
-Precision Health Interest Group Meetings, NYU, Grossman School of Medicine, 2019
-* Contributed Posters: Discovering Linear Biosignatures for Treatment Response: A Convexity-Based Clustering Approach
-Tom Ten Have Symposium on Statistics in Mental Health, Yale University, 2019
-
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
 
 {%   
 Service and leadership
